@@ -33,7 +33,7 @@ In his free time I have been doing my hobby: fishing.
 * ASTERISK PBX
 ---
 
-### Code example:
+### Code example: 
 
 ```
 function duplicateCount(text){
