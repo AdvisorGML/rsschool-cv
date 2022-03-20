@@ -11,10 +11,11 @@
 ### About Me:
 I'm 47 years old. I live in the city of Gomel, Belarus.\
 25 years working in the leading telecommunications company of the Republic of Belarus.\
-I try to keep up with life, improve your knowledge and skills. Therefore, in his not young age he became a student RS.school.\
+I try to keep up with life, improve your knowledge and skills. Therefore, in his not young age he became a student RS.SCHOOL.\
 In his free time I have been doing my hobby: fishing.
 
->*"The gods are not counted in the account of life time spent on fishing"* 
+>   *"The gods are not counted in the account of life time spent on fishing"* 
+
 ---
 
 ### Education
@@ -31,6 +32,7 @@ In his free time I have been doing my hobby: fishing.
 * JS (Basic)
 * MySQL
 * ASTERISK PBX
+
 ---
 
 ### Code example: 
@@ -43,4 +45,5 @@ function duplicateCount(text){
     return duplicate;
 }
 ```
+
 ---
