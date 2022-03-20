@@ -2,10 +2,10 @@
 ---
 ### Contact information:
 
-**Phone:** +375 29 6107172<br>
-**E-mail:** advisor@tut.by<br>
-**Telegram:** @ADVISOR_BY<br>
-[VK](https://vk.com/advisorby)
+**Phone:** +375 29 6107172\
+**E-mail:** advisor@tut.by\
+**Telegram:** @ADVISOR_BY\
+**VK:** [advisorby](https://vk.com/advisorby)
 
 ---
 
@@ -19,7 +19,6 @@
 ---
 
 ### Code example:
-
 
 ```
 function duplicateCount(text){
