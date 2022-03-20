@@ -14,8 +14,6 @@ I'm 47 years old. I live in the city of Gomel, Belarus.\
 I try to keep up with life, improve your knowledge and skills. Therefore, in his not young age he became a student RS.SCHOOL.\
 In his free time I have been doing my hobby: fishing.
 
->   *"The gods are not counted in the account of life time spent on fishing"* 
-
 ---
 
 ### Education
