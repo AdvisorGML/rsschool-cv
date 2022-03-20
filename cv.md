@@ -22,6 +22,11 @@
 
 
 ```
-
+function duplicateCount(text){
+    arr = text.toUpperCase().split('');
+    count = arr.reduce((arr_tmp, x) => (arr_tmp[x] = (arr_tmp[x] || 0) + 1, arr_tmp), {});
+    duplicate = Object.values(count).filter(x => x > 1);
+    return duplicate;
+}
 ```
 ---
